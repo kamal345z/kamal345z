@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Kamal 👋
 
-<!--
-**kamal345z/kamal345z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m learning: [Python,Arduino, Designing softwares,data science ]
+- 👯 I’m looking to collaborate on: [building projects,and products ]
+- 🤔 I’m looking for help with: [going deep down in coding and AI]
+- 💬 Ask me about: [programming,AI, Electronics]
+- 📫 How to reach me: [my email : kamalmuduli06@gmail.com]
+- ⚡ Fun fact: [I am in VSSUT burla, Sambalpur,Odisha]
+
+## 🛠️ Languages and Tools
+
+![Languages](C, Python,HTML,CSS)
+
+## 📈 GitHub Stats
+
+![kamal345z's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal345z&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamal345z&layout=compact&theme=tokyonight)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://www.linkedin.com/in/kamal-kumar-muduli-5a6683307)
+[instgram]
+(https://www.instagram.com/unss_kamal?igsh=ZzVvaXVnbTZlcGgy)
+
+---
+
+Thanks for stopping by! ✨

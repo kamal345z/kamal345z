@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/kamal-kumar-muduli-5a6683307)
-[instgram]
+[👜[LinkedIn](https://www.linkedin.com/in/kamal-kumar-muduli-5a6683307)
+[📢instagram]
 (https://www.instagram.com/unss_kamal?igsh=ZzVvaXVnbTZlcGgy)
 
 ---
